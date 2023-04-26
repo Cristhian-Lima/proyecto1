@@ -2,4 +2,4 @@
 
 lo importante sobre este proyecto es que lo hice yo
 
-[ ] todavia no se termino este proyecto.
+-[ ] todavia no se termino este proyecto.
