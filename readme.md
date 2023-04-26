@@ -1,5 +1,10 @@
-#Mi primer proyecto en java y git
+# Mi primer proyecto en java y git
 
 lo importante sobre este proyecto es que lo hice yo
 
--[ ] todavia no se termino este proyecto.
+## Lenguajes
+- Java
+- HTML
+
+## TODO
+- [ ] todavia no se termino este proyecto.
